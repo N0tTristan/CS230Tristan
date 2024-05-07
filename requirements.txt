@@ -1,0 +1,5 @@
+pandas
+numpy
+pydeck  
+streamlit
+matplotlib
