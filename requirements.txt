@@ -3,3 +3,4 @@ numpy
 pydeck  
 streamlit
 matplotlib
+option_menu
